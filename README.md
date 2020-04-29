@@ -1,2 +1,5 @@
 # Cofe-Ini-Colectivo
-Cafe de especialidad de Mexico
+
+Cafés de especialidad de México
+
+Mejores prácticas por los cafés de especialidad
